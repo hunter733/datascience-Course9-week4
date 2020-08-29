@@ -30,7 +30,7 @@ https://bkarmay.shinyapps.io/PricePredictorForDiamonds/
 
 Click the link below for compiled project files on gitub repo.
 
-https://hunter733.github.io/datascience-Course9-week4/Shiny_App_and_repro_pitch.html
+https://github.com/hunter733/datascience-Course9-week4
 
 ## Data Used
 The data used for this application is diamonds data set, which is part of ggplot2 package. Containing information about 53940 diamonds with 10 variables.
@@ -39,11 +39,3 @@ The data used for this application is diamonds data set, which is part of ggplot
 library("ggplot2")
 head(diamonds)
 ```
-
-
-
-
-
-
-
-
